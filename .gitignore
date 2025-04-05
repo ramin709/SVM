@@ -1,0 +1,9 @@
+# Anaconda environment
+env/
+__pycache__/
+*.pyc
+# Large datasets
+data/*.csv
+*.log
+# Jupyter checkpoints
+.ipynb_checkpoints/
